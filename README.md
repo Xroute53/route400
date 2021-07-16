@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @route400
 - 👀 I’m interested in code
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning to code
 
 
 <!---
